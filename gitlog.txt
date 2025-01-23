@@ -1,0 +1,15 @@
+fad8e0d Merge pull request #1 from Clemonade71/feature-Clemonade71
+fafdff3 THis is Aaron!
+7e12e5a merge features with main, resolved new_features conflict
+1573541 changed new_features.txt
+92d0a44 edited new_features.txt
+3d03f31 merged features into main
+63785ca edited new_file.txt
+ddeef50 edited new_features.txt
+0c38d3b add empty file
+d4e287c added api-keys.txt to .gitignore
+774017a added Readme file
+2c82960 made .gitignore file
+f42b5c1 removed .DS_Store from repo
+956ae9c Updated new_file with info
+a44efe6 first commit

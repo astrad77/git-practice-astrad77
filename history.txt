@@ -1,0 +1,131 @@
+    3  curl -S "https://gitlab.com/levi506/installing-insurgnece/raw/master/assets/macOS/install.sh" | bash\n
+   32  git
+   33  git--version
+   34  git-version
+   35  git version
+   37  git config --global use.name "Andrew Stradling"
+   38  git config --global user.email "astrad77@gmail.com"
+   39  git config --global core.editor "code --wait"
+   40  git config --global init.defaultBranch main
+   42  git brother
+   44  git --version
+   45  git --version
+   46  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   47  brew install git
+   48  $ brew install git
+   49  brew install git
+   53  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+   61  brew install git
+   63  git config --list
+   71  cd/Users/astrad/Desktop/Stat\ 386/git-practice-astrad77 
+   72  cd /Users/astrad/Desktop/Stat\ 386/git-practice-astrad77  
+   75  mkdir gitPractice
+   76  cd gitPractice
+   77  git status
+   78  git init
+   79  git status
+   83  git status
+   84  git status
+   85  git add new_file.txt
+   86  git status
+   87  git add .DS_Store
+   88  git status
+   89  git commit -m 'first commit'
+   90  git status
+   91  git status
+   92  git add .
+   93  git commit -m 'Updated new_file with info'
+   94  git status
+   95  git rm --cached '*.DS_Store'
+   96  git commit -m 'removed .DS_Store from repo'
+   97  git log
+   98  git checkout a44efe63caea51922d863982212e7c68c5978fb1
+   99  git status
+  100  nano .gitignore
+  101  git status
+  102  git add . 
+  103  git commit 'made .gitignore file'
+  104  git commit -m 'made .gitignore file'
+  105  git status
+  106  git log
+  107  git checkout a44efe63caea51922d863982212e7c68c5978fb1
+  108  git switch -
+  111  cd /Users/astrad/Desktop/Stat\ 386/git_practice_astrad77 
+  112  git status
+  114  git status
+  115  git add Readme.md
+  116  git status
+  117  git commit -m 'added Readme file'
+  118  git status
+  120  git status
+  121  git add .
+  122  git commit -m 'added api-keys.txt to .gitignore'
+  123  git status
+  124  git log
+  125  git switch -c features
+  126  git log
+  128  git status
+  129  git add . 
+  130  git commit -m 'add empty file'
+  132  git status
+  133  git add . 
+  134  git commit -m 'edited new_features.txt'
+  136  git switch -
+  139  git status
+  140  git add . 
+  141  git commit -m 'edited new_file.txt'
+  142  git merge features
+  143  git commit -m 'merged features into main'
+  144  git status
+  145  git log
+  147  git status
+  149  git add . 
+  150  git commit -m 'edited new_features.txt'
+  151  git status
+  152  git switch features
+  154  git status
+  155  git add .
+  156  git commit -m 'changed new_features.txt'
+  157  git switch -
+  158  git merge features
+  159  git merge features
+  160  git status
+  161  git merge --abort
+  162  git status
+  163  git status
+  164  git merge features
+  165  git commit -m 'merge features with main, resolved new_features conflict'
+  166  git status
+  167  git add . 
+  168  git commit -m 'merge features with main, resolved new_features conflict'
+  169  git status
+  172  git branch -d features
+  173  git branch -a
+  174  git status
+  176  git config --global user.email "astrad77@gmail.com"
+  177  git config --global user.name "astrad77"
+  180  mkdir vscode-git
+  181  cd vscode-git
+  187  git config --global core.editor "code --wait"
+  189  cd /Users/astrad/Desktop/Stat\ 386/git_practice_astrad77 
+  190  git remote add origin git@github.com:astrad77/git-practice-astrad77.git
+  191  git push -u origin main 
+  193  git clone https://github.com/esnt/stat386-blog-theme.git
+  194  git remote change origin https://github.com/astrad77/myblog.git
+  197  git remote change origin https://github.com/astrad77/myblog.git
+  198  git remote set-url https://github.com/astrad77/myblog.git
+  199  git push -u origin main
+  200  git push -u origin main 
+  201  git set-url git@github.com:astrad77/myblog.git
+  202  git remote set-url origin git@github.com:astrad77/myblog.git
+  203  git push -u origin main 
+  204  git add .
+  222  git clone git@github.com:astrad77/git-practice-Clemonade71.git
+  223  git switch -b feature-astrad77
+  224  git switch -c feature-astrad77
+  225  cd /Users/astrad/Desktop/Stat\ 386/git-practice-Clemonade71 
+  226  git switch -c feature-astrad77
+  228  cd /Users/astrad/Desktop/Stat\ 386/git_practice_astrad77 
+  229  git pull 
+  230  cd /Users/astrad/Desktop/Stat\ 386/git_practice_astrad77 
+  231  git log --oneline > gitlog.txt
